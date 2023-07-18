@@ -3,6 +3,7 @@
 * Ücretli Bot Veya Altyapı İçin **luhux** (341592492224806914) <br>
 * Yeni Tag Sistemi Var
 * Url Guard Var
+* Setup Select Menü İle sikim sonik bir şey değil 
 
 # Görseller
 ![image](https://github.com/utw0/Satilik-v14-Public-Bot/assets/74924310/7b70dfff-f4ff-4475-af11-243fc47b9793)
