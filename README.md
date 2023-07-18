@@ -26,5 +26,7 @@
 ![image](https://github.com/utw0/Satilik-v14-Public-Bot/assets/74924310/67785113-440b-4f38-8381-5e7cdd22aaa1)
 ![image](https://github.com/utw0/Satilik-v14-Public-Bot/assets/74924310/e8b285c0-1baf-4008-8276-348558b24cfe)
 ![image](https://github.com/utw0/Satilik-v14-Public-Bot/assets/74924310/9864cb49-372a-4a1a-a175-d2a412d18674)
+![image](https://github.com/utw0/Satilik-v14-Public-Bot/assets/74924310/f17ef83f-6ebd-48e2-a9d5-133cb13cc22e)
+
 
 
