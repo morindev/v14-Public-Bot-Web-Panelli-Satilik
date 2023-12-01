@@ -4,7 +4,7 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 # Görseller
 Global Komutlar
 <details>
-![image](https://github.com/utw0/Satilik-v14-Public-Bot/assets/74924310/e184c3aa-4973-4cfe-9229-bf0fb34e463d)
+https://cdn.discordapp.com/attachments/1159394965609254916/1180114543985299586/image.png?ex=657c3e50&is=6569c950&hm=e620f0d16a6050e714b0c65cb5de6dfcd4149373e172a06b77b7eaa64213b53a&
 
 </details>
 
