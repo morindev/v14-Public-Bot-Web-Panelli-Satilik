@@ -4,4 +4,12 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 # Görseller
 Yakında
 
-
+# Stat Görselleri
+<details>
+ <img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/c08e820d-0e0f-4bfb-a197-49c22b488632">
+<img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ebd4dbf1-abdc-4502-b222-d8aa8ae15780">
+<img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/c61386de-6fb3-487a-be56-6ea1dd1c2e88">
+<img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/5e2aeca9-9498-4989-b936-fc2211394613">
+<img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/d5f68c1c-3e59-47aa-b107-d10ef453b751">
+<img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/48bfcc9e-a950-48dd-836a-64d10bd5c042">
+</details>
