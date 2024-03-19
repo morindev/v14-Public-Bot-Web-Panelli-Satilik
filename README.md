@@ -55,26 +55,16 @@ Yakında
 
 # Management Görselleri
 <details>
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/fe97de1b-ba0c-4678-83d5-c48ab5f00dbc
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ef59555c-368f-4bfe-9e45-55f8eb79f29d
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/37a2f57b-95df-4a55-97af-3171ea44fc5e
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/a96505dc-27cf-46f1-bb52-ebded5f489cc
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/4170db4c-fa60-4f0f-9aef-3655f1e3c2e9
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/b3c4cb7f-237b-4662-b8b7-157c220b1434
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/1f87a5ac-c90b-41c1-ade6-a00b9e331973
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/5891f978-196f-4470-9429-0724bd14bcb5
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/30b6f258-ec93-4b0c-87ec-bb2a30e9ccfd
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/7c2dec39-46b6-4905-93b8-261d520c0b70
-">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/fe97de1b-ba0c-4678-83d5-c48ab5f00dbc">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ef59555c-368f-4bfe-9e45-55f8eb79f29d">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/37a2f57b-95df-4a55-97af-3171ea44fc5e">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/a96505dc-27cf-46f1-bb52-ebded5f489cc">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/4170db4c-fa60-4f0f-9aef-3655f1e3c2e9">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/b3c4cb7f-237b-4662-b8b7-157c220b1434">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/1f87a5ac-c90b-41c1-ade6-a00b9e331973">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/5891f978-196f-4470-9429-0724bd14bcb5">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/30b6f258-ec93-4b0c-87ec-bb2a30e9ccfd">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/7c2dec39-46b6-4905-93b8-261d520c0b70">
 </details>
 
 # Global Görselleri
@@ -88,58 +78,34 @@ Yakında
 
 # Bot Owner Görselleri
 <details>
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/4872d6af-4d4a-44b5-b23e-793306a1670a
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/e0ddbfc3-5475-4d40-b386-a63017682417
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/5ce5cfbe-2770-41a7-a145-eb703320452c
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/525d796e-e799-4733-be35-f326464f16c4
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/0adbba0b-2468-4f16-bba8-646b529a2653
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/b8d353e2-d7fa-4dac-b540-73d1ca32bcec
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ff734f50-5a7d-488b-bd03-8653f678bba4
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/4e973a64-702f-43ae-8ca3-86805ac3cd37
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/7bf6ba30-41f4-4970-a8dd-06dc41a36704
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/a859dbb4-6afe-432d-81de-8f058819a683
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ffd6ce8d-c373-4d09-b8e3-64b689243f18
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/d0c82a0a-778a-4cc5-b59a-8cd4c34d1936
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/fe48084d-b939-4e2f-b55d-2a7a906ffe55
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/b475a23b-ee4a-4817-8288-98ad37315606
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/95416f98-8da2-4736-99fd-1fe68857733d
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/28e7d5eb-0fcb-4bd0-8ddf-550f32e810d9
-">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/4872d6af-4d4a-44b5-b23e-793306a1670a">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/e0ddbfc3-5475-4d40-b386-a63017682417">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/5ce5cfbe-2770-41a7-a145-eb703320452c">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/525d796e-e799-4733-be35-f326464f16c4">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/0adbba0b-2468-4f16-bba8-646b529a2653">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/b8d353e2-d7fa-4dac-b540-73d1ca32bcec">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ff734f50-5a7d-488b-bd03-8653f678bba4">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/4e973a64-702f-43ae-8ca3-86805ac3cd37">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/7bf6ba30-41f4-4970-a8dd-06dc41a36704">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/a859dbb4-6afe-432d-81de-8f058819a683">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ffd6ce8d-c373-4d09-b8e3-64b689243f18">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/d0c82a0a-778a-4cc5-b59a-8cd4c34d1936">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/fe48084d-b939-4e2f-b55d-2a7a906ffe55">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/b475a23b-ee4a-4817-8288-98ad37315606">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/95416f98-8da2-4736-99fd-1fe68857733d">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/28e7d5eb-0fcb-4bd0-8ddf-550f32e810d9">
 </details>
 
 # Economy Görselleri
 <details>
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/cf7d17ad-9c4e-4b65-b84a-1704a6788920
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/003bf983-06eb-4a3a-97b7-2f7148db5b82
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/e89d2da6-dc7e-401a-acbc-b7232c986945
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/e115c3eb-61c4-46af-a231-7e25ad791725
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/2b994982-c716-46e5-8d1e-60071916841e
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/53f1b643-5da3-4854-9776-9ee82871cd74
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/70e66c30-6ee3-4891-a590-48ee963fbb0e
-">
-<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/9fdd05d9-1a4e-4729-87c7-89404427ac4e
-">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/cf7d17ad-9c4e-4b65-b84a-1704a6788920">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/003bf983-06eb-4a3a-97b7-2f7148db5b82">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/e89d2da6-dc7e-401a-acbc-b7232c986945">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/e115c3eb-61c4-46af-a231-7e25ad791725">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/2b994982-c716-46e5-8d1e-60071916841e">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/53f1b643-5da3-4854-9776-9ee82871cd74">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/70e66c30-6ee3-4891-a590-48ee963fbb0e">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/9fdd05d9-1a4e-4729-87c7-89404427ac4e">
 </details>
 
 
