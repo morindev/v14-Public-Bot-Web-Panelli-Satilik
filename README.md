@@ -37,9 +37,30 @@ Yakında
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/3a259178-cc95-4a49-8ae7-c31841f315f4">
 </details>
 
+# Guard Görselleri
+<details>
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/87576745-bcd6-491d-bdb2-4e90ddcb6470">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/33cea02a-49d9-42de-8639-bbfcdd270ce4">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/c11a6f20-875b-49a7-9423-b31b537968b4">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/7a239741-da3c-407c-ab24-aff81ec9b3e8">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/3b292ebe-6bfc-4f3f-bb54-5a0c4ac65fa9">
+
+</details>
+
 # Register Görselleri
 <details>
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/357ff620-692b-4628-a24e-2740eda84c28">
+</details>
+
+# Görev Görselleri
+<details>
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/7a7cc94e-16c9-4f6c-8578-ac3ee6f9b1b2">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/9724652d-ac9b-44a5-8760-e8f2f5b6316f">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/3e34ff9e-dae8-4a9d-9a13-f8b4a764e1fd">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/dd787046-1d3f-4ad4-820c-71f63d4f46c6">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/c36ab917-de06-47be-bf71-508186af75d3">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/3be192a9-f19f-4833-b027-bc1e895e7d4a">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/0590524e-8180-4255-a749-e9b0c72de42a">
 </details>
 
 # Moderation Görselleri
