@@ -18,3 +18,16 @@ Yakında
 <img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/22853576-6fe4-407b-881e-ef4d27c51c45">
 <img width="450" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/7c8f5da5-f360-44ce-ae44-454339f84ae4">
 </details>
+
+# Staff Görselleri
+<details>
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/3cec6ad8-d677-422c-9c08-084cdf816b4e">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/91f4087a-3f03-4701-83ce-d3b870289343">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/137e5c11-1a9f-408e-bf6e-bf95fabbb08b">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ec16e83d-3b1f-4261-9a49-0eb3b8fbc048">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/61c24bfa-680d-4b74-9188-513b0e68318a">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/784532d7-e758-497d-b297-fc0881b44eed">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/e5ac4562-c6ce-4abd-b4aa-a17cd187e2d2">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/8fabd13c-45d2-420e-a34c-92955e60509c">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/2e4b83b1-c812-41d0-bebd-95b3a1c01da4">
+</details>
