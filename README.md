@@ -115,6 +115,9 @@ Yakında
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/b475a23b-ee4a-4817-8288-98ad37315606">
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/95416f98-8da2-4736-99fd-1fe68857733d">
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/28e7d5eb-0fcb-4bd0-8ddf-550f32e810d9">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/3e837791-d872-4763-8684-96b2d86734c5">
+
+
 </details>
 
 # Economy Görselleri
