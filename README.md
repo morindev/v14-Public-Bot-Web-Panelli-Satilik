@@ -93,6 +93,7 @@ Yakında
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/70cc8457-0181-4dab-8b52-db72d1263127">
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/5c940062-0e59-4ad4-9f40-0dc45e6cf8b7">
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/ba31ca96-5a46-4c20-8a4c-5426ddce5d34">
+<img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/6beb5860-5d90-4d39-813a-cc1b2eb5a14e">
 <img width="500" alt="image" src="https://github.com/utw0/v14-Public-Bot/assets/74924310/1d8a43de-74a2-42e4-a088-8c6d6f43b1e2">
 
 </details>
