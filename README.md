@@ -24,7 +24,7 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 | Yetkili Komutları  | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/f9c1e231-58b4-4f5e-8c1f-c25908db155b"> |
 </details>
 
-details>
+<details>
   <summary>STAT SİSTEMİ</summary>
 
 | Komut                  | Resim                                                                                                  |
@@ -35,8 +35,9 @@ details>
 | Stat 4.sayfa | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/083055d5-2c1e-47ff-b665-98433dbe2108"> |
 | Stat 5.sayfa | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/1f3db91f-a008-4804-a124-40236f3f528f"> |
 | Stat 6.sayfa | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/cdebf3ca-3c15-4e7b-a9c2-c3a10908db0a"> |
-| Rol Stat | <img alt="image" src=""> |
-
+| Rol Stat | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/bb364208-e9b9-4753-9993-849c154070e8"> |
+| Top Komutu | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/5b17a56c-94b6-4738-93da-76ac741462c0"> |
+| Top Komutu | <img alt="image" src="https://github.com/utw0/v14-Public-Bot-Satilik/assets/74924310/3ec9eaa9-9378-4a6c-9df0-eb85ea527875"> |
 </details>
 
 
