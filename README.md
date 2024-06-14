@@ -4,7 +4,7 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 
 [Not :BAYRAMA YAKIN İNDİRİM VARDIR BAYRAM SONU BİTİCEK]
 # Görseller
-details>
+<details>
   <summary>GÖREV/YETKİLİ SİSTEMİ</summary>
 
 | Komut                  | Resim                                                                                                  |
