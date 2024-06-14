@@ -3,6 +3,7 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 Ücretli bot kod altyapı DM!(luhux)
 
 [Not :BAYRAMA YAKIN İNDİRİM VARDIR BAYRAM SONU BİTİCEK]
+Yeni Sistemler hergün güncelleniyor gerekli olanları buraya atıcam detaylar için discordan yazabilirsiniz
 # Görseller
 <details>
   <summary>GÖREV/YETKİLİ SİSTEMİ</summary>
