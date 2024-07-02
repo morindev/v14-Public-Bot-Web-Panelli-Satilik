@@ -5,7 +5,7 @@ Merhaba, PM2 botlarımı satışa çıkardım. Botlar tamamen lisanslıdır. Bu 
 [Not :SUANLİK İNDİRİM VAR COK UYGUN FİYATA ALT YAPİ SATİLİYOR]
 [Not :WEB PANEL EKLENDİ]
 - Daha detaylı bilgi için bana discordan yazabilirsiniz luhux#0 341592492224806914
-Yeni Sistemler hergün güncelleniyor gerekli olanları buraya atıcam detaylar için discordan yazabilirsiniz
+- Yeni Sistemler hergün güncelleniyor gerekli olanları buraya atıcam detaylar için discordan yazabilirsiniz
 # Görseller
 <details>
   <summary>GÖREV/YETKİLİ SİSTEMİ</summary>
